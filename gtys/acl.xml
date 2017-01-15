@@ -2,6 +2,7 @@
 <acl xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <acl name="Admin">
         <right name="command.cts" access="true" />
+        <right name="command.dts" access="true" />
         <right name="command.res" access="true" />
         <right name="command.tmarkers" access="true" />
     </acl>
