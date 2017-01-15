@@ -1,5 +1,5 @@
 ﻿<meta>
-    <info name="Go Truck Yourself" type="gamemode" shadowcopy="true" description="It's time to truck shit up." author="René" version="1.0" />
+    <info name="Go Truck Yourself" type="gamemode" shadowcopy="true" description="It's time to truck shit up." author="Eraknelo" version="1.0" />
     <assembly ref="System.Xml.dll" />
 
     <script src="Server/Bin/GoTruckYourself.dll" type="server" lang="compiled" />
